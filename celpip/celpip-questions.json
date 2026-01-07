@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "updatedAt": "2026-01-06T00:00:00Z",
+    "totalSets": 4,
+    "imageInstructions": "Images stored in celpip/ folder with naming convention celpip-setN-taskT.png"
+  },
+  "sets": [
+    {
+      "setNumber": "Set 1",
+      "questions": [
+        {
+          "task": 1,
+          "prompt": "A friend is looking for a summer job. Advise him about different ways he can find work for the summer.",
+          "situation": "Your friend wants to find a summer job but doesn't know where to start looking or what options are available to him.",
+          "tags": ["work", "daily-life"]
+        },
+        {
+          "task": 2,
+          "prompt": "Talk about a great time you had with a family member or friend. Maybe you can talk about a party, something you did together at school, a time you travelled with a friend, or anything else you can remember. What happened and why was it memorable?",
+          "situation": "Think about a memorable experience you shared with someone close to you - it could be a celebration, an adventure, or a simple moment that became special.",
+          "tags": ["people", "events"]
+        },
+        {
+          "task": 3,
+          "prompt": "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture.",
+          "imageFile": "celpip-set1-task3.png",
+          "imageDescription": "A busy classroom scene with students sitting at desks arranged in rows. In the foreground, students are chatting with each other and some appear distracted. One student is throwing a paper airplane across the room. At the blackboard, a student is writing math problems while another student raises their hand. A teacher stands at the doorway observing the class. There's a world map on the wall near the window, and students show various levels of engagement - some talking, some working, and some looking around.",
+          "tags": ["education", "places"]
+        },
+        {
+          "task": 4,
+          "prompt": "In this picture, what do you think will most probably happen next?",
+          "imageFile": "celpip-set1-task4.png",
+          "imageDescription": "A busy classroom scene with students sitting at desks arranged in rows. In the foreground, students are chatting with each other and some appear distracted. One student is throwing a paper airplane across the room. At the blackboard, a student is writing math problems while another student raises their hand. A teacher stands at the doorway observing the class. There's a world map on the wall near the window, and students show various levels of engagement - some talking, some working, and some looking around.",
+          "tags": ["education", "events"]
+        },
+        {
+          "task": 5,
+          "prompt": "Your family is relocating to another area, and you are looking for a new home there. You found two suitable options. Your family is suggesting another house. Persuade your family member that what you chose is more suitable by comparing the two.",
+          "optionA": "New Downtown Townhouse - $250,000, 3 bedrooms and 1 bathroom, 1,850 square feet, close to public transportation and shopping malls",
+          "optionB": "Detached Home in Quiet Neighbourhood - $300,000, 3 bedrooms and 3 bathrooms, 2,800 square feet, 30 minutes from downtown, 5 minutes from shops",
+          "imageFile": "celpip-set1-task5.png",
+          "imageDescription": "Two side-by-side images comparing housing options. Left image shows a row of new downtown townhouses - multi-story brick buildings with modern design, close together on a street. Right image shows a spacious detached home in a quiet suburban neighbourhood with a large front lawn, driveway, and single-story ranch-style design surrounded by landscaping.",
+          "tags": ["daily-life", "family", "shopping"]
+        },
+        {
+          "task": 6,
+          "prompt": "A close cousin who lives in another country is coming to visit for a year. She tells you that she would like to stay at your place to explore your country's culture and to spend some time with you. Your roommate does not agree, and says you will have to move out if she comes.",
+          "situation": "Choose ONE:\nEITHER: Talk to your cousin. Explain why she cannot move in for a year.\nOR: Talk to your roommate. Explain why your cousin should be allowed to move in with you for a year.",
+          "tags": ["family", "communication", "people"]
+        },
+        {
+          "task": 7,
+          "prompt": "Do you think that young adults should pay rent to their parents if they do not move out by the age of 21? Explain your reasons.",
+          "tags": ["family", "abstract"]
+        },
+        {
+          "task": 8,
+          "prompt": "You are in a furniture store and you see a table you would like to buy, but the store clerk won't let you take a photo. Phone a member of your family. Provide a full and clear description of the table and ask if you can buy the table.",
+          "imageFile": "celpip-set1-task8.png",
+          "imageDescription": "An unusual and whimsical fruit-themed table. The round tabletop is designed to look like a cross-section of a watermelon - with a pink center showing black seeds and a green rind around the edge. Instead of traditional legs, the table is supported by three large yellow bananas curved to act as legs. Next to the table is a simple wooden chair with a traditional design, contrasting with the playful table.",
+          "tags": ["objects", "shopping", "abstract"]
+        }
+      ]
+    },
+    {
+      "setNumber": "Set 2",
+      "questions": [
+        {
+          "task": 1,
+          "prompt": "A classmate is not doing well in math class and has received several low grades. If this continues, he will not be able to pass the final exam. Give your classmate advice on what he should or should not do if he would like to improve his grades.",
+          "situation": "Your classmate has been struggling with math and getting low grades. The final exam is approaching, and if things don't improve, they will fail the course.",
+          "tags": ["education", "communication"]
+        },
+        {
+          "task": 2,
+          "prompt": "Talk about a time when something did not happen the way you first expected. Maybe you can talk about something that did not happen according to plan when you were working on a project, or when you were trying to accomplish something. At first, how did you expect things to happen, how did they actually happen, and what was your response?",
+          "situation": "Think about an experience when your expectations didn't match reality - a project that went differently than planned, a goal that was harder to achieve, or a situation that surprised you.",
+          "tags": ["events", "abstract"]
+        },
+        {
+          "task": 3,
+          "prompt": "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture.",
+          "imageFile": "celpip-set2-task3.png",
+          "imageDescription": "A busy street scene in an urban area. On one side are storefronts including a coffee cafe and a market with produce displayed outside. Various people are engaged in different activities: a person walking a small dog, two men talking on the sidewalk, a young person checking their phone while walking, and a couple sitting on a bench in the foreground. A child appears to be chasing a basketball that's bouncing toward a crosswalk where a red car is approaching. There's a bare tree with a pink balloon caught in its branches, and a Bank of Canada sign visible in the background.",
+          "tags": ["places", "people", "daily-life"]
+        },
+        {
+          "task": 4,
+          "prompt": "In this picture, what do you think will most probably happen next?",
+          "imageFile": "celpip-set2-task4.png",
+          "imageDescription": "A busy street scene in an urban area. On one side are storefronts including a coffee cafe and a market with produce displayed outside. Various people are engaged in different activities: a person walking a small dog, two men talking on the sidewalk, a young person checking their phone while walking, and a couple sitting on a bench in the foreground. A child appears to be chasing a basketball that's bouncing toward a crosswalk where a red car is approaching. There's a bare tree with a pink balloon caught in its branches, and a Bank of Canada sign visible in the background.",
+          "tags": ["places", "events"]
+        },
+        {
+          "task": 5,
+          "prompt": "Your company is planning to move to a new office soon, and your boss has asked you to help find a new location. You find two suitable options. Your boss is suggesting another office. Persuade her that the office you chose is more suitable by comparing the two.",
+          "optionA": "Industrial District - Built in 1910, 10,000 square feet, rent $10,000 per month, free parking for employees",
+          "optionB": "Downtown Business Centre - Built in 2012, 12,000 square feet, rent $15,000 per month, close to bus and train stations",
+          "imageFile": "celpip-set2-task5.png",
+          "imageDescription": "Two side-by-side images comparing office spaces. Left image shows a historic industrial building interior with tall ceilings, large windows, exposed structural elements, and a metal railing - an older converted warehouse space with lots of natural light. Right image shows a modern open-plan office with contemporary furniture, rows of desks with computers, bright fluorescent lighting, and a clean minimalist design typical of a newer commercial building.",
+          "tags": ["work", "shopping"]
+        },
+        {
+          "task": 6,
+          "prompt": "Your child's school has asked you to help with a class field trip. Your friend bought you tickets to a baseball game for that same day. The school will cancel the field trip if there are not enough parents, but your friend will be upset if you cannot go to the baseball game because the tickets were expensive.",
+          "situation": "Choose ONE:\nEITHER: Talk to the school. Explain why you cannot help with the field trip.\nOR: Talk to your friend. Explain why you cannot attend the game.",
+          "tags": ["family", "communication", "social"]
+        },
+        {
+          "task": 7,
+          "prompt": "Do you think all university students should study abroad for a year, if there is sufficient funding? Explain your reasons.",
+          "tags": ["education", "travel", "abstract"]
+        },
+        {
+          "task": 8,
+          "prompt": "You see a group of people playing a sport at a recreation centre. Call your friend Betty and describe in detail what the sport is like and what each player is doing. Ask her if she would be interested in trying this sport sometime.",
+          "imageFile": "celpip-set2-task8.png",
+          "imageDescription": "An underwater hockey game taking place at the bottom of a swimming pool. Several players wearing snorkels, diving masks, and swim fins are swimming near the pool floor. They are using small sticks to push a puck along the bottom of the pool. The players are wearing different colored caps to distinguish teams. The scene shows the unique nature of this unusual sport with players diving and maneuvering underwater to compete for the puck.",
+          "tags": ["sports", "hobbies", "events"]
+        }
+      ]
+    },
+    {
+      "setNumber": "Set 3",
+      "questions": [
+        {
+          "task": 1,
+          "prompt": "Your co-worker Jillian's birthday is next week. Advise your other co-workers about how to celebrate her birthday together.",
+          "situation": "Jillian is a colleague whose birthday is coming up next week. You want to help organize a celebration with your other co-workers.",
+          "tags": ["work", "people", "events"]
+        },
+        {
+          "task": 2,
+          "prompt": "Talk about a time when you travelled with your family. Maybe you can talk about a time you went on vacation or a time you went to visit friends or relatives. Who did you go with, where did you go, and what did you do?",
+          "situation": "Think about a memorable trip you took with family members - it could be a vacation, a visit to relatives, or any journey you shared together.",
+          "tags": ["travel", "family", "events"]
+        },
+        {
+          "task": 3,
+          "prompt": "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture.",
+          "imageFile": "celpip-set3-task3.png",
+          "imageDescription": "A busy urban street scene with many activities happening simultaneously. In the foreground, there's a hot dog vendor at a cart selling $1 hot dogs. A man is buying from the vendor while a dog on a leash is jumping up excitedly. On the sidewalk, a woman in pink is walking past. In the background, several cars are stopped in traffic, and construction workers wearing yellow hard hats are gathered near the crosswalk. A crossing guard holds a STOP sign. A woman on a red scooter is carrying a delivery box. Various pedestrians are walking on the sidewalk, and there's a trash can with garbage bags nearby.",
+          "tags": ["places", "people", "daily-life"]
+        },
+        {
+          "task": 4,
+          "prompt": "In this picture, what do you think will most probably happen next?",
+          "imageFile": "celpip-set3-task4.png",
+          "imageDescription": "A busy urban street scene with many activities happening simultaneously. In the foreground, there's a hot dog vendor at a cart selling $1 hot dogs. A man is buying from the vendor while a dog on a leash is jumping up excitedly. On the sidewalk, a woman in pink is walking past. In the background, several cars are stopped in traffic, and construction workers wearing yellow hard hats are gathered near the crosswalk. A crossing guard holds a STOP sign. A woman on a red scooter is carrying a delivery box. Various pedestrians are walking on the sidewalk, and there's a trash can with garbage bags nearby.",
+          "tags": ["places", "events"]
+        },
+        {
+          "task": 5,
+          "prompt": "You are looking for a hotel room for a holiday you are taking with a friend. You found two suitable options. Your friend is suggesting the Budget Motel ($89 per night, located just outside the city, wireless not available, free morning coffee). Persuade your friend that your choice is more suitable by comparing the two.",
+          "optionA": "Airport Inn - Located near the airport, wireless internet extra ($5/day), free breakfast included, $129 per night",
+          "optionB": "Oceanview Hotel - Located on the beach, free wireless internet, daily breakfast buffet ($5 per person), $149 per night",
+          "imageFile": "celpip-set3-task5.png",
+          "imageDescription": "Two side-by-side images comparing hotel room options. Left image shows the Airport Inn - a comfortable hotel room with a large bed, desk with chair, lamp, and window with natural light, appearing business-like and practical. Right image shows the Oceanview Hotel - a bright room with two beds, white linens, curtains, and bedside lamps, with a more resort-like atmosphere.",
+          "tags": ["travel", "shopping"]
+        },
+        {
+          "task": 6,
+          "prompt": "Your children's sports club is raising money by selling cakes. One parent makes very bad cakes. The club president wants you to tell the parent not to bake cakes for the sale.",
+          "situation": "Choose ONE:\nEITHER: Tell the parent not to bake cakes and give a reason.\nOR: Tell the club president why the parent should bake cakes and give a reason.",
+          "tags": ["communication", "social", "family"]
+        },
+        {
+          "task": 7,
+          "prompt": "Do you think having too much money is a bad thing? Explain your reasons.",
+          "tags": ["abstract", "daily-life"]
+        },
+        {
+          "task": 8,
+          "prompt": "You are walking through a park near a school when you see some children playing. You think they could get hurt. Call the school, tell them exactly what you see, and ask them to send a teacher to the park.",
+          "imageFile": "celpip-set3-task8.png",
+          "imageDescription": "A dangerous scene in a park showing children playing unsafely in and around a large tree. One child in a red shirt is climbing high up the tree trunk using makeshift wooden boards nailed to the tree as steps. Another child is sitting precariously on a thin branch extending from the tree. A third person stands on a ladder below, holding what appears to be a colorful hammock or net stretched between tree branches. On the ground, there's a saw lying in the grass, adding to the unsafe situation. The scene suggests imminent danger of falling.",
+          "tags": ["events", "family", "abstract"]
+        }
+      ]
+    },
+    {
+      "setNumber": "Set 4",
+      "questions": [
+        {
+          "task": 1,
+          "prompt": "John is about to graduate from high school and is deciding between going straight to college or working for a few years first and then going to college. Advise him on the advantages and disadvantages of each decision.",
+          "situation": "John is a high school senior facing a major life decision about whether to continue his education immediately or gain work experience first before attending college.",
+          "tags": ["education", "work", "abstract"]
+        },
+        {
+          "task": 2,
+          "prompt": "Talk about a time when you went to a party. Maybe you can talk about a birthday party, a party with classmates, a party with your family, a wedding party, or any other party you can remember. Who was at the party and why was it memorable?",
+          "situation": "Think about a party you attended that stands out in your memory - consider the people, the occasion, and what made it special.",
+          "tags": ["events", "people", "entertainment"]
+        },
+        {
+          "task": 3,
+          "prompt": "Describe some things that are happening in this picture as well as you can. The person with whom you are speaking cannot see the picture.",
+          "imageFile": "celpip-set4-task3.png",
+          "imageDescription": "A crowded scene at Central Station showing a busy train platform. On the left, a woman in a green jacket is rushing through the train doors as they're about to close. Near the turnstiles, a security guard or police officer in uniform is grabbing a man in a yellow shirt who appears to be jumping over the barrier. A small child holding a red balloon watches nearby. On the right side, there's a long queue of people waiting at the ticket counter under a 'TICKETS' sign. A transit map is visible on the wall, and various commuters of different ages are moving through the station.",
+          "tags": ["places", "people", "travel"]
+        },
+        {
+          "task": 4,
+          "prompt": "In this picture, what do you think will most probably happen next?",
+          "imageFile": "celpip-set4-task4.png",
+          "imageDescription": "A crowded scene at Central Station showing a busy train platform. On the left, a woman in a green jacket is rushing through the train doors as they're about to close. Near the turnstiles, a security guard or police officer in uniform is grabbing a man in a yellow shirt who appears to be jumping over the barrier. A small child holding a red balloon watches nearby. On the right side, there's a long queue of people waiting at the ticket counter under a 'TICKETS' sign. A transit map is visible on the wall, and various commuters of different ages are moving through the station.",
+          "tags": ["places", "events"]
+        },
+        {
+          "task": 5,
+          "prompt": "You are shopping for a fridge. You find two suitable options. A family member is suggesting another fridge. Persuade your family member that what you chose is more suitable by comparing the two.",
+          "optionA": "Samestar Fridge - $750, 3.5-star energy rating, silver color, durable design",
+          "optionB": "Tablus Fridge - $325, 1.5-star energy rating, 205 litres capacity, 3-year warranty",
+          "imageFile": "celpip-set4-task5.png",
+          "imageDescription": "Two side-by-side images comparing refrigerator options. Left image shows the Samestar Fridge - a large, modern silver French-door style refrigerator with the freezer on the bottom, doors open showing multiple shelves stocked with food and vegetables, appearing spacious and energy-efficient. Right image shows the Tablus Fridge - a smaller, basic white single-door refrigerator with the door open, showing a compact interior with shelves containing some fruits and vegetables, suitable for smaller spaces.",
+          "tags": ["shopping", "daily-life", "objects"]
+        },
+        {
+          "task": 6,
+          "prompt": "Your friend Amy has asked to borrow your family car to go for a job interview. A member of your family does not want to lend Amy the car because she was the driver in a car crash last year.",
+          "situation": "Choose ONE:\nEITHER: Talk to your family member. Explain why you will lend Amy the car.\nOR: Talk to Amy. Explain to Amy why you will not lend her the car.",
+          "tags": ["family", "communication", "people"]
+        },
+        {
+          "task": 7,
+          "prompt": "Do you think children should wear uniforms in school so that they are all dressed the same? Explain your reasons.",
+          "tags": ["education", "abstract"]
+        },
+        {
+          "task": 8,
+          "prompt": "You have seen a coat in an online catalogue, and you would like to buy this coat as a gift for a friend's birthday tonight. Phone your local department store. Provide a full and clear description of the coat and ask if they have one in the store.",
+          "imageFile": "celpip-set4-task8.png",
+          "imageDescription": "A distinctive winter coat with an unusual design. The coat is primarily white/cream colored with a striking orange zigzag pattern across the chest area. It features a large fuzzy fur-trimmed hood in brown/grey tones, brown leather-like patches on the shoulders and elbows, and a teal/green knit collar and cuffs. The coat has a double-breasted style with several brown buttons down the front. The overall design is eye-catching and somewhat retro or vintage in style.",
+          "tags": ["objects", "shopping", "abstract"]
+        }
+      ]
+    }
+  ]
+}
